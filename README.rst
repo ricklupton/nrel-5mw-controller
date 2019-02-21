@@ -3,17 +3,15 @@ nrel_5mw_controller
 ===================
 
 
-Add a short description here!
+This is a Python implementation of the wind turbine torque and pitch controller
+used in the NREL 5MW turbine in the OC3 code comparison project. It was
+originally written for `Rick Lupton's PhD thesis`_ and `this paper`_.
+
+.. _Rick Lupton's PhD thesis: https://doi.org/10.17863/CAM.14119
+.. _this paper: https://doi.org/10.1016/j.renene.2018.11.067
 
 
-Description
-===========
+Usage
+=====
 
-A longer description of your project goes here...
-
-
-Note
-====
-
-This project has been set up using PyScaffold 3.1. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
+TBC

@@ -81,7 +81,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'nrel_5mw_controller'
+project = u'NREL 5MW controller' #u'nrel_5mw_controller'
 copyright = u'2019, Rick Lupton'
 
 # The version info for the project you're documenting, acts as replacement for
